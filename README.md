@@ -3,7 +3,7 @@
 ## Table of test cases
 
 | file | image | source | step file (link) | unfolds? (sheetmetal v0.2.63) | unfolds? (this) |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | [001.FCStd](./fcstd/001.FCStd) | [001.png](./img/001.png) | [github](https://github.com/shaise/FreeCAD_SheetMetal/issues/6) | [001.step](./step/001.step) | :x: | :x: |
 | [002.FCStd](./fcstd/002.FCStd) | [002.png](./img/002.png) | [github](https://github.com/shaise/FreeCAD_SheetMetal/issues/203) | [002.step](./step/002.step) | :x: | :x: |
 | [003.FCStd](./fcstd/003.FCStd) | [003.png](./img/003.png) | [github](https://github.com/shaise/FreeCAD_SheetMetal/issues/254) | [003.step](./step/003.step) | :x: | :x: |
